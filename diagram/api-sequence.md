@@ -1,6 +1,11 @@
 # API Sequence Diagram
 
 ```mermaid
+---
+config:
+  theme: redux-color
+  look: neo
+---
 sequenceDiagram
     participant Client
     participant API as JSONPlaceholder API
