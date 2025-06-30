@@ -1,4 +1,4 @@
-# 🧠 GitHub Copilot + Mermaid Demo
+# 🧠 GitHub Copilot Diagram
 
 This repository demonstrates how GitHub Copilot can assist developers/architects in generating **Mermaid.js diagrams** — including flowcharts, sequence diagrams, and architecture visuals — using simple natural language prompts.
 
