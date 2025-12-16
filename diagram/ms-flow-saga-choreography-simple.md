@@ -7,7 +7,7 @@ config:
   look: classic
   layout: elk
 ---
-flowchart LR
+flowchart TD
     %% Users & Access
     A1["Web User"]:::user --> A2(Application Gateway / Load Balancer):::infra
     B1["Mobile User"]:::user --> A2
