@@ -7,7 +7,7 @@ config:
   look: classic
   layout: elk
 ---
-flowchart TD
+flowchart LR
     %% Node Declarations First
 
     %% Users
